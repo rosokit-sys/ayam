@@ -1,0 +1,23 @@
+{
+  "name": "ChickProfit Pro Management",
+  "short_name": "ChickProfit",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "description": "Aplikasi manajemen peternakan ayam kampung profesional.",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?q=80&w=192&h=192&auto=format&fit=crop",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?q=80&w=512&h=512&auto=format&fit=crop",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
